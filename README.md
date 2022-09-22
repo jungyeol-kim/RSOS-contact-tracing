@@ -11,7 +11,7 @@ Traditional contact tracing tests the direct contacts of those who test positive
 #### The raw data used to construct data-driven network was previously published in *A Banerjee, AG Chandrasekhar, E Duflo, MO Jackson, The diffusion of microfinance. Science 341 (2013)*. 
 
 ### Simulations
-We consider various attributes that affect the efficacy of contact tracing, involving variations of false negative rates, false positive rates, test result turnaround times, starting times of contact tracing, and level of cooperation with contact tracing and testing. You can vary the setting by entering values of interest for each code.
+We consider various attributes that affect the efficacy of contact tracing, involving variations of false negative rates, false positive rates, test result turnaround times, starting times of contact tracing, and level of cooperation with contact tracing and testing. You can control the setting by entering values of interest for each code.
 
 e.g.)  
 *intervention.start.inf.rate*<-0 # Starting point of contact tracing, percent (%); enter 0 if contact tracing is initiated when the first individual tests positive  
