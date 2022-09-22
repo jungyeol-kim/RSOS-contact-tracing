@@ -14,8 +14,8 @@ Traditional contact tracing tests the direct contacts of those who test positive
 We consider various attributes that affect the efficacy of contact tracing, involving variations of false negative rates, false positive rates, test result turnaround times, starting times of contact tracing, and level of cooperation with contact tracing and testing. You can vary the setting by entering values of interest for each code.
 
 e.g.)
-intervention.start.inf.rate<-0 # Starting point of contact tracing, percent (%); enter 0 if contact tracing is initiated when the first individual tests positive
-turnaround<-1  # Turnaround times for coronavirus test results (days)
-FP.rate<-0 # False Positive rate, percent (%)
-FN.rate<-11 # False Negative rate, percent (%)
-cooperativity<-100  # Cooperativity (%)
+intervention.start.inf.rate<-0 # Starting point of contact tracing, percent (%); enter 0 if contact tracing is initiated when the first individual tests positive  
+turnaround<-1  # Turnaround times for coronavirus test results (days)  
+FP.rate<-0 # False Positive rate, percent (%)  
+FN.rate<-11 # False Negative rate, percent (%)  
+cooperativity<-100  # Cooperativity (%)  
